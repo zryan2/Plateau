@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plateau</string>
+    <string-array name="movementArray">
+        <item>Push Day</item>
+        <item>Pull Day</item>
+        <item>Legs Day</item>
+        <item>Rest Day</item>
+    </string-array>
+</resources>
